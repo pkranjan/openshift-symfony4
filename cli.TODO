@@ -6,7 +6,7 @@ create new project
 ✔ oc new-project symfony
 
 create new app via s2i
-✔ oc new-app openshift/php:7.1~https://github.com/vikbert/openshift-symfony4.git
+✔ oc new-app openshift/php:7.1~https://github.com/pkranjan/openshift-symfony4.git
 
 list the pods
 ✔ oc get pods
